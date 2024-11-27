@@ -1,5 +1,52 @@
-# 💫 About Me:
-👋 Hi, I'm [frank mwangi]!<br>🚀 Spring Boot Developer with a passion for building scalable and efficient backend systems.<br>🌐 I work on web applications, with a focus on integrating ads to generate revenue and enhance user engagement.<br>💡 Currently working on a website about surveys, targeting users primarily based in Kenya.<br>💻 Proficient in Java (currently using Java 21), with experience in building robust applications and collaborating on open-source Spring Boot projects.<br>🔧 I enjoy following programming conventions and best practices to write clean, maintainable code.<br>💼 Actively seeking collaborations with the developer community in Kenya, especially around Spring Boot and related projects.<br>📈 Always looking for ways to improve CPM rates and optimize ads for better revenue.<br>🛠️ Tech Stack:<br>Backend: Spring Boot, Java (21), PostgresSQL<br>Frontend: HTML, CSS, JavaScript<br>Database: PostgreSQL<br>Other Tools: Git, Docker, IntelliJ IDEA<br>🌱 Currently Learning:<br>Advanced Spring Boot features and microservices architecture.<br>Database optimization for PostgreSQL.<br>Improving ad monetization strategies for web platforms.<br>📫 Get in Touch:<br>LinkedIn<br>Twitter<br>Portfolio<br>
+# 💫 About Me  
+👋 Hi, I'm [Frank Mwangi]!  
+🚀 A passionate developer with expertise in Java, Spring, Spring Boot, ReactJS, and Machine Learning.  
+🌐 I specialize in building scalable web applications and integrating intelligent systems to deliver impactful solutions.  
+💡 With a strong foundation in backend development, frontend design, and AI-driven tools, I strive to create meaningful user experiences.  
+💻 Proficient in developing robust applications and incorporating machine learning to solve complex problems.  
+🔧 I enjoy collaborating with like-minded professionals to bring innovative ideas to life.  
+
+## 🌱 Currently Exploring  
+- Advanced Spring Boot features and microservices architecture.  
+- Building seamless user interfaces with ReactJS.  
+- Machine Learning algorithms and applications.  
+- Database optimization and best practices for PostgreSQL.  
+
+## 📫 Let's Connect  
+[LinkedIn](#)  
+[Twitter](#)  
+[Portfolio](#)  
+
+## 🛠️ Tech Stack  
+### **Languages**  
+- Java, Python, JavaScript, SQL  
+
+### **Backend**  
+- Spring, Spring Boot, REST APIs  
+
+### **Frontend**  
+- ReactJS, HTML, CSS, Bootstrap  
+
+### **Machine Learning**  
+- TensorFlow, Scikit-learn, Pandas, NumPy  
+
+### **Database**  
+- PostgreSQL, MySQL, MongoDB  
+
+### **Tools and Platforms**  
+- Git, Docker, IntelliJ IDEA, Postman, Jupyter Notebook, AWS, Apache Kafka, Maven, Gradle  
+
+### **Version Control**  
+- GitHub, GitLab, Bitbucket  
+
+### **Design Tools**  
+- Figma, GIMP, Inkscape  
+
+### **CI/CD & Deployment**  
+- Jenkins, Netlify, Heroku  
+
+---
+
 
 
 ## 🌐 Socials:
