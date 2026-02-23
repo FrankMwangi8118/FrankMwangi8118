@@ -25,22 +25,13 @@
 - Spring, Spring Boot, REST APIs  
 
 ### **Frontend**  
-- ReactJS, HTML, CSS, Bootstrap  
-
-### **Machine Learning**  
-- TensorFlow, Scikit-learn, Pandas, NumPy  
+- ReactJS, HTML, CSS, Tailwind CSS  
 
 ### **Database**  
 - PostgreSQL, MySQL, MongoDB  
 
 ### **Tools and Platforms**  
 - Git, Docker, IntelliJ IDEA, Postman, Jupyter Notebook, AWS, Apache Kafka, Maven, Gradle  
-
-### **Version Control**  
-- GitHub, GitLab, Bitbucket  
-
-### **Design Tools**  
-- Figma, GIMP, Inkscape  
 
 ### **CI/CD & Deployment**  
 - Jenkins, Netlify, Heroku  
